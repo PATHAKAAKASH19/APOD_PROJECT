@@ -26,8 +26,7 @@ dist-ssr
 # Ignore node module
 node_modules/
 
-# Ignore vite config file
-vite.config.js
+
 
 # Ignore eslint file
 .eslintrc.cjs
