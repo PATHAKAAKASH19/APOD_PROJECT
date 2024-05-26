@@ -28,8 +28,6 @@ node_modules/
 
 
 
-# Ignore eslint file
-.eslintrc.cjs
 
 # .env file
 .env
